@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Literatura"
+
+[output.html]
+default-theme = "rust"
+git-repository-url = "https://github.com/jaywor1/literatura"
