@@ -33,4 +33,4 @@ WIP
 - [Výslovnost jména autora](https://www.youtube.com/watch?v=z5aUGqb2xFM)
 - [ČT EDU - Malý princ](https://edu.ceskatelevize.cz/video/14531-a-de-saint-exupery-maly-princ)
 - [Na potítku](https://www.youtube.com/watch?v=Rv2bfXHpdQI)
-- [Video od Lukas IV, zmíněné na potítku](https://www.youtube.com/watch?v=kbndGMf1RME)
+- [Video od Lukas IV, zmíněné Na potítku](https://www.youtube.com/watch?v=kbndGMf1RME)
