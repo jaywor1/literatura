@@ -16,7 +16,7 @@
 - [Životy slavných - Karel Čapek](https://www.youtube.com/watch?v=q4zCDYqeHSE)
 - [Znáte je dobře? - Karel Čapek (ČT)](https://www.ceskatelevize.cz/porady/10087924982-znate-je-dobre/206562230460002/)
 - [Proč nejsem komunistou? - Karel Čapek](https://www.moderni-dejiny.cz/clanek/karel-capek-proc-nejsem-komunistou/)
-- [Film - Člověk proti zkáze (neviděl jsem, ale pojednává o posledních letech Čapka)](https://www.youtube.com/watch?v=DCmvVpqtp0A)Krakatit
+- [Film - Člověk proti zkáze (neviděl jsem, ale pojednává o posledních letech Čapka)](https://www.youtube.com/watch?v=DCmvVpqtp0A)
 
 ### Optional zdroje - Bílá nemoc
 
