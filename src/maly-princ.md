@@ -4,15 +4,15 @@ WIP
 
 ## Basic
 
-lit. druh - epika
-lit. žánr - filozofická pohádka
-kompozice - chronologické
-hl. téma - střet dospělého světa s tím dětským
-motivy - kreativita, láska
-časoprostor - planetka B 612, Země, doba není určena
-forma vypr. - ich-forma (Pilot), činy malého prince er-forma
+- lit. druh - epika
+- lit. žánr - filozofická pohádka
+- kompozice - chronologické
+- hl. téma - střet dospělého světa s tím dětským
+- motivy - kreativita, láska
+- časoprostor - planetka B 612, Země, doba není určena
+- forma vypr. - ich-forma (Pilot), činy malého prince er-forma
 
-lit. směr - meziválečná literatura
+- lit. směr - meziválečná literatura
 
 ## Autor
 

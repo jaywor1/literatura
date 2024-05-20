@@ -2,15 +2,15 @@
 
 ## Basic
 
-lit. druh - drama
-lit. žánr - tragédie
-kompozice - chronologická
-hl. téma - bezmoc ovlivnit osud
-motivy - osud
-časoprostor - 4. století př. n. l. - antické řecko, Théby
-forma vypr. - dialogy
+- lit. druh - drama
+- lit. žánr - tragédie
+- kompozice - chronologická
+- hl. téma - bezmoc ovlivnit osud
+- motivy - osud
+- časoprostor - 4. století př. n. l. - antické řecko, Théby
+- forma vypr. - dialogy
 
-lit. směr - antická tragédie
+- lit. směr - antická tragédie
 
 ## Autor - Sofoklés
 

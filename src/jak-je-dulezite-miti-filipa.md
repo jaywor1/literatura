@@ -2,15 +2,15 @@
 
 ## Basic
 
-lit. druh - drama
-lit. žánr - konverzační komedie
-kompozice - chronologická s prvky retrospektivy, 3 dějství, trojí jednota není dodržena
-hl. téma - láska ve viktoriánské anglii
-motivy - láska, původ
-časoprostor - viktoriánská Anglie (1894)
-forma vypr. - dialogy
+- lit. druh - drama
+- lit. žánr - konverzační komedie
+- kompozice - chronologická s prvky retrospektivy, 3 dějství, trojí jednota není dodržena
+- hl. téma - láska ve viktoriánské anglii
+- motivy - láska, původ
+- časoprostor - viktoriánská Anglie (1894)
+- forma vypr. - dialogy
 
-lit. směr - dekadence
+- lit. směr - dekadence
 
 ## Autor
 

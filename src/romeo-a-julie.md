@@ -4,13 +4,13 @@ WIP
 
 ## Basic
 
-lit. druh - drama
-lit. žánr - tragédie
-kompozice - 5 dějství, chronologické
-hl. téma - láska a smrt
-motivy - láska a rody
-časoprostor - 16. století, Itálie - Verona
-forma vypr. - dialog, monolog
+- lit. druh - drama
+- lit. žánr - tragédie
+- kompozice - 5 dějství, chronologické
+- hl. téma - láska a smrt
+- motivy - láska a rody
+- časoprostor - 16. století, Itálie - Verona
+- forma vypr. - dialog, monolog
 
 ## Autor - William Shakespeare
 
