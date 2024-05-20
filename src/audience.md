@@ -2,6 +2,16 @@
 
 WIP
 
+## Basic
+
+lit. druh - drama
+lit. žánr - absurdní drama
+kompozice - jednoaktovka, jedno dějství, moderní pojetí dramatu 
+hl. téma - morálka
+motivy - boj za lepší život apod.
+časoprostor - doba normalizace (70-80. léta 20. století)
+forma vypr. - dialogy
+
 ## Václav Havel
 
 - Dramatik, disident

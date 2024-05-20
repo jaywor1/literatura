@@ -1,5 +1,17 @@
 # Krysař
 
+## Basic
+
+lit. druh - epika
+lit. žánr - novela
+kompozice - chronologická, gradace na konci
+hl. téma - láska a pomsta
+motivy - krysař
+časoprostor - německé město Hammeln, neurčená doba
+forma vypr. - er-forma
+
+lit. směr - anarchističtí buřiči
+
 ## Autor - Viktor Dyk
 
 - patřil do pseudoskupiny - anarchističtí buřiči

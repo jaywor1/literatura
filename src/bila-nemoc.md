@@ -1,5 +1,15 @@
 # Bílá nemoc
 
+## Basic
+
+lit. druh - drama
+lit. žánr - tragédie
+kompozice - 3 dějství, chronologické
+hl. téma - válka
+motivy - fanatický dav
+časoprostor - těsně před mnichovskou dohodou 1937
+forma vypr. - prostřednictvím dialogů a monologů
+
 ## Autor - Karel Čapek
 
 - Pochází z královéhradeckého kraje

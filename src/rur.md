@@ -1,5 +1,17 @@
 # R.U.R
 
+## Basic
+
+lit. druh - drama
+lit. žánr - tragédie
+kompozice - chronologická, předehra a 3 dějství
+hl. téma - hrozba nadvlády umělé inteligence
+motivy - bez práce přestává být člověk člověkem
+časoprostor - Rossumův ostrov (nespecifikovaný ostrov), budoucnost
+forma vypr. - dialogy, monology
+
+lit. směr - civilismus
+
 ## Autor - Karel Čapek
 
 - Pochází z královéhradeckého kraje

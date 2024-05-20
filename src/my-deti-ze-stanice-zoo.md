@@ -1,5 +1,17 @@
 # My děti ze stanice ZOO
 
+## Basic
+
+lit. druh - epika
+lit. žánr - reportážní román
+kompozice - 
+hl. téma - drogová závislost mladistvých
+motivy - drogy, láska, prostituce
+časoprostor - Západní Berlín 70. léta 20. století (1970-79)
+forma vypr. - ich-forma
+
+lit. směr - ?, asi žádný
+
 ## Autorka
 
 ## Dílo
