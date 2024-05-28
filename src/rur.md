@@ -23,6 +23,18 @@
 
 ## Dílo
 
+- děj
+    - za Dominem dojde Helena a chce vidět závod robotů
+    - ve skutečnosti ale bojuje za práva robotů a chce je zbouřit
+    - Helena se přesvědčí, že nejde roboty zbouřit a vezme si ředitele Domina
+    - Po 10 letech se roboti používají do válek
+    - Helena přesvědčí Dr. Galla, aby udělal robota s duší
+    - Roboti se bouří
+    - Helena nechce, aby se roboti vyráběli a tak spáli plány na jejich výrobu
+    - Roboti se dostanou na ostrov s továrnou a zabijou všechny kromě Alquista
+    - Roboti se nemohou vyrábět, jelikož se zničil recept
+    - Alquist nachází Primu a Helenu a doufá, že zažehnou novou civilizaci protože jsou jiní
+
 ## Zdroje
 
 - [Životy slavných - Karel Čapek](https://www.youtube.com/watch?v=q4zCDYqeHSE)

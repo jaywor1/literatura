@@ -1,7 +1,5 @@
 # Audience
 
-WIP
-
 ## Basic
 
 - lit. druh - drama

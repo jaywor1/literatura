@@ -18,7 +18,16 @@ WIP
 
 - Antoine de Saint Exupéry [Antoan de-sa exupery]
 - syn bohaté rodiny, bývalá šlechta
-- 
+- je z Francie
+- byl to letec
+- 1921 nastupuje jako vojenský letec
+- 1944 zahynul jako letec ve 2. sv.
+- ostatní díla
+    - Letec - povídka
+    - Noční let - jihoamerická poštovní linka, síla lidského ducha
+- současníci
+    - Anatole France
+    - Romain Rolland - Petr a Lucie
 
 ## Dílo
 
@@ -33,6 +42,8 @@ WIP
     - opilec - pije ==> aby zapomněl, že se stydí ==> stydí se, protože pije
     - podnikatel - "vlastní hvězdy" ==> aby byl bohatý ==> aby vlastnil další hvězdy
     - poslední sedmá planeta je Země
+    - zkamarádí se s liškou a dozví se o poutu
+    - na konci se vydává zpátky na zem, tak že ho uškne had
 - těžká definice žánru
     - bajka?
     - psychologická pohádka?
