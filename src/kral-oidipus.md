@@ -18,9 +18,12 @@
 - ostatní díla
     - Antigoné, Élektrá
 - současníci
-    - Aischylos
-    - Eurípidés
+    - Aischylos - Upoutaný Prometheus
+    - Eurípidés - Elektra, Medeia
 - zavádí třetího herce u dionýzi
+- ostatní dílo
+    - Antigona
+    - Elektra
 
 
 ## Dílo

@@ -37,6 +37,7 @@
 - současníci
     - A. Škvorecký - Zbabělci
     - Jan Otčenášek - Romeo Julie a tma
+    - F. Halas - Torzo naděje
 - umřel na vypadnutí z okna, neví se jestli sebevražda
 
 ## Děj

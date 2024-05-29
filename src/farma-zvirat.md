@@ -20,7 +20,7 @@
 - odpůrce imperalismu, odklon k levici
 - bojoval ve španělské občanské válce, 2. sv. se neúčastní
 - pohyboval se jako tulák mezi spodinou
-- umírá na tuberkulosu
+- umírá na tuberkulozu
 - byl demokratický socialista
 - jeden z nejlepších anglických esejistů
 - ostatní díla

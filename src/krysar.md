@@ -11,17 +11,38 @@
 - forma vypr. - er-forma
 
 - lit. směr - anarchističtí buřiči
+    - Nietzsche
+    - opovrhování společností
+    - bohémský život
 
 ## Autor - Viktor Dyk
 
+- 1877-1931
+- přelom 19. století
+- Pšovka u Mělníka
+- 1931 - umírá na mrtvici při plavání
+- učitel Alois Jirásek
+- časopis Lumír, Národní listy
 - patřil do pseudoskupiny - anarchističtí buřiči
     - F. Gellner, F. Šrámek
     - básník má reagovat na dobu
     - kritika maloměšťáků
 - především básník
+- romantismus
+- politik, senátor
+- ostatní díla
+    - Milá sedmi loupežníků - lyrickoepická poéma
+    - Pohádky z naší vesnice - politická lyrika
+
+## Politika
+
+- po roce 1865 - velký hospodářský rozvoj
+- 1881 - otevření ND
+- 1883 - otevření 2. ND
 
 ## Dílo
 
+- 13. století
 - první vydaná časopisecky 1912, později v knižní podobě 1915
 - próza
 - žánr: novela - daleko jednoduší kompozice než román, je chronologický

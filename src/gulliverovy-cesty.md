@@ -22,7 +22,7 @@
 - zde dožívá
 - pamflety, krátké literární dílo kritizující společnost
 - ostatní díla
-    - A Modest Proposal - přirovnává vykořisťnování Irska ke kanibalizmu
+    - A Modest Proposal - přirovnává vykořisťnování Irska ke kanibalismu
 
 ## Dílo
 

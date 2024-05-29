@@ -15,11 +15,17 @@
 ## Autor - Ray Bradbury
 
 - 1920-2012
+- 1953
+- nestudoval vysokou školu
+- učil se v knihovnách po střední
+- nepoužíval moderní technologie
+- napsal jediné sci-fi a to 451 ostatní je fantasy
 - psal romány a povídky, novinář
 - inspirace E.A. Poe a H.P. Lovercrafta
 - ostatní díla
     - Marťanská kronika
         - o kruté kolonizaci Marsu lidmi, povídky
+        - ztrach z atomové bomby
     - Slunce a Stín - povídky
 - současníci
     - G. Orwell

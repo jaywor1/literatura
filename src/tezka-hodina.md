@@ -23,7 +23,7 @@
     - levicové
     - nejznámější S. K. Neumann
     - Dvě skupina
-        - Devětsil - J. Wolker, Vladislav Vančura, K. Taige, J. Seifert (Města v slzách), V. Nezval
+        - Devětsil - J. Wolker, V. Vančura, K. Taige, J. Seifert (Města v slzách), V. Nezval
         - Literární skupina - Blatný, Kalista, J. Wolker
             - expresionismus
     - psali jakoby dělníci, umění pro lidi
@@ -31,6 +31,7 @@
 - ostatní díla
     - Host do domu (1921)
         - píše o běžných věcech všedního dne a snaží se je poetizovat
+
 
 ## Dílo
 

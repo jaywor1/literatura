@@ -4,7 +4,7 @@
 
 - lit. druh - epika
 - lit. žánr - román - společensko-kritický
-- kompozice - chronologická
+- kompozice - chronologická, zaměřeno na děj
 - hl. téma - kritika pařížské společnosti, zejména novinářů
 - motivy - novinařina
 - časoprostor - Paříž 1877-80
@@ -14,6 +14,7 @@
 
 ## Autor - Guy de Maupassant
 
+- 19. století
 - narodil se do šlechtické rodiny
 - zúčastnil se prusko-francouzské války
 - po úspěchu povídky kulička zbohatne

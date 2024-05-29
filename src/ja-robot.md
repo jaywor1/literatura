@@ -10,7 +10,7 @@
 - časoprostor - New York 2064, Země, Merkur (1996-2046) 
 - forma vypr. - er i ich forma
 
-- lit. směr - sci-fi, ztracená generace
+- lit. směr - sci-fi
 
 ## Autor
 
@@ -28,11 +28,18 @@
 ## Dílo
 
 - období studené války
-    - ztracená generace
-    - změna ideálu, boření tradic
 - polovina 20. století
-- rozvoj sci-fi literatury
+- rozvoj sci-fi literatury - zlatá éra tohoto žánru
 - 3 robotické zákony
     - 1. Robot nesmí ublížit člověku ani svou nečinností
     - 2. Robot musí poslechnout člověka, pokud nerozporuje 1. zákonu
     - 3. Robot musí chránit sám sebe před zničením, pokud nerozporuje 1. a 2. zákonu
+- postavy
+    - Susan Calvinová
+        - "protagonistka" - robopsycholožka, protíná téměř všechny povídky
+        - Mike Donovan a Greg Powell - testeři
+        - Alfred Laning
+            - současný ředitel pro výzkum
+        - Peter Bogart
+            - pozdější ředitel
+            
